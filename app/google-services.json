@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16048326822",
+    "project_id": "meka-81212",
+    "storage_bucket": "meka-81212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16048326822:android:cf09688f72e5027a6a8c67",
+        "android_client_info": {
+          "package_name": "com.example.mek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16048326822-r6mc3t1n526nsr07lvphvsi22tk96r3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mek",
+            "certificate_hash": "7ad538bad134cc9ed2c9cbc08cba2efab0a1f220"
+          }
+        },
+        {
+          "client_id": "16048326822-2qrus9s6582rvclbti8ti2d3u8aia6bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbACSKVmizzQIfdIKwR1GsJZ-RPn8Pxu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16048326822-2qrus9s6582rvclbti8ti2d3u8aia6bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
